@@ -1,5 +1,3 @@
-46:08 video 
-
 $ go mod init github.com/igfurlan/react-go-study
 $ go mod tidy
 
