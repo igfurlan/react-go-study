@@ -1,7 +1,4 @@
-46:08 video 
-
 $ go mod init github.com/igfurlan/react-go-study
-$ go mod tidy
 
 $ go get github.com/gofiber/fiber/v2
 
@@ -12,7 +9,6 @@ Create the air.toml file with the proper content
 ### Setup the .env
 $ go get github.com/joho/godotenv
 Create the .env file in the project folder
-
 
 
 ### Setup MongoDB
